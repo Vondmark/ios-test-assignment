@@ -1,0 +1,16 @@
+{
+    "listing": {
+        "title": "Listing",
+        "button_text": "Button",
+        "products":
+        [
+            {
+                "code": 123456,
+                "name": "Awesome product",
+                "brand": "BRAND",
+                "price": 1234.56,
+                "image_url": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            }
+        ]
+    }
+}
